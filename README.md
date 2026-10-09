@@ -11,8 +11,8 @@ Este repositorio contiene la solución práctica en Java y las respuestas teóri
 ---
 
 ## 🛠️ Tecnologías Utilizadas
-* **Lenguaje de Programación:** Java (JDK 17 o superior)
-* **Entorno de Desarrollo (IDE):** IntelliJ IDEA / VS Code / Eclipse
+* **Lenguaje de Programación:** Java 21
+* **Entorno de Desarrollo (IDE):** IntelliJ IDEA
 * **Control de Versiones:** Git & GitHub
 
 ---
